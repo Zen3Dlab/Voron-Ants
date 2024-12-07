@@ -1,3 +1,3 @@
-# X Axis
+# MidPanel
 
-![image](https://github.com/user-attachments/assets/8a27ea3e-5957-4cd1-8023-a8f8b949c9c5)
+![image](https://github.com/user-attachments/assets/518df597-f5d4-464d-a25c-62d4f6ca6b06)
