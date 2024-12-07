@@ -1,3 +1,3 @@
-# MidPanel
+# Electronics
 
-![image](https://github.com/user-attachments/assets/518df597-f5d4-464d-a25c-62d4f6ca6b06)
+![image](https://github.com/user-attachments/assets/8a04484e-69fa-42f7-babc-d1eeba32879b)
